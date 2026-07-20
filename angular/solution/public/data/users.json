@@ -1,7 +1,0 @@
-[
-  { "id": 1, "name": "Anna Bianchi", "email": "anna.bianchi@example.com", "city": "Trento" },
-  { "id": 2, "name": "Marco Rossi", "email": "marco.rossi@example.com", "city": "Verona" },
-  { "id": 3, "name": "Giulia Verdi", "email": "giulia.verdi@example.com", "city": "Padova" },
-  { "id": 4, "name": "Luca Neri", "email": "luca.neri@example.com", "city": "Milano" },
-  { "id": 5, "name": "Sara Conti", "email": "sara.conti@example.com", "city": "Bologna" }
-]
